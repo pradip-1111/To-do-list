@@ -1,12 +1,27 @@
-# React + Vite
+# 📝 Multi-User To-Do List with Calendar, Time & Dark Mode
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive and attractive multi-user to-do list app built with React. Users can manage their own task lists, add deadlines with date and time, and switch between light and dark modes. The app also features user and task deletion, task reordering, and local storage persistence.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- ✅ Add multiple users (to-do lists per user)
+- ✅ Add, delete, and reorder tasks
+- 📅 Add due date and time to tasks
+- 🌙 Toggle between Light and Dark mode
+- 💾 Saves theme and user data in Local Storage
+- 🎨 Stylish and responsive UI with beautiful colors
+- 🧹 Delete individual tasks or entire user lists
 
-## Expanding the ESLint configuration
+## 🛠️ Built With
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **React** (Functional Components, Hooks)
+- **CSS** (Custom styles for dark/light modes)
+- **React Icons** (Font Awesome icons)
+
+## 📦 Getting Started
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/your-username/multi-user-todo-app.git
+cd multi-user-todo-app
